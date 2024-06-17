@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['bus_lane_sign']
+
+roboflow:
+  workspace: project-okx1s
+  project: -vdwmt
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/project-okx1s/-vdwmt/dataset/3
