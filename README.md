@@ -58,9 +58,9 @@
 <br/>├── 📂 raspberrypi # 라즈베리파이 스트리밍 및 설정 소스코드 
 <br/>├── 📂 yolov5-master # YOLOv5 모델 학습 및 추론용 코어 디렉토리 
 <br/>├── 📂 우회전,무단횡단,버스전용... # 학습 및 테스트에 사용된 원본 영상 데이터 
-  <br/>├── 📄 detect.py # 객체 탐지 실행 스크립트 
-  <br/>├── 📄 project.pt # 학습된 Custom YOLOv5 가중치 모델 파일 
-  <br/>└── 📄 read_me.txt # 프로젝트 기본 설명 파일
+    <br/>├── 📄 detect.py # 객체 탐지 실행 스크립트 
+    <br/>├── 📄 project.pt # 학습된 Custom YOLOv5 가중치 모델 파일 
+    <br/>└── 📄 read_me.txt # 프로젝트 기본 설명 파일
 
 
 
